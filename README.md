@@ -17,6 +17,8 @@ El flujo de trabajo desarrollado en **Google Colab** consta de las siguientes et
 2. **Limpieza y Formateo:** Estandarización de fechas y tratamiento de notación científica para valores financieros elevados.
 3. **Análisis Exploratorio (EDA):** Agrupación temporal y por categorías para detectar tendencias de crecimiento o estancamiento.
 4. **Visualización:** Creación de gráficos de líneas y barras con `matplotlib` para facilitar la interpretación de los KPIs.
+## 📊 Reporte Gráfico y Análisis
+![alt text](image.png)
 
 ## 🚀 Instalación y Dependencias
 Para ejecutar este proyecto, se recomienda un entorno de **Python 3.9 o superior**. Las librerías utilizadas son:
